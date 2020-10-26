@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources xmlns:tools="http://schemas.android.com/tools" tools:ignore="MissingTranslation">
+
+    <string name="define_xcom_tompee_bunch__annotations" tools:ignore="UnusedResources">Tompee Balauag</string>
+    <string name="library_xcom_tompee_bunch__annotations_libraryName" tools:ignore="UnusedResources">Bunch</string>
+    <string name="library_xcom_tompee_bunch__annotations_libraryDescription" tools:ignore="UnusedResources">An Android bundle wrapper generator that offers customizable interface, type-safety and self-documentation. Say goodbye to your bland bundles!</string>
+    <string name="library_xcom_tompee_bunch__annotations_licenseId" tools:ignore="UnusedResources">bunch</string>
+    <string name="library_xcom_tompee_bunch__annotations_libraryWebsite" tools:ignore="UnusedResources">https://github.com/tompee26/Bunch</string>
+    <string name="library_xcom_tompee_bunch__annotations_author" tools:ignore="UnusedResources">Tompee Balauag</string>
+    <string name="library_xcom_tompee_bunch__annotations_authorWebsite" tools:ignore="UnusedResources">https://medium.com/tompee</string>
+
+
+    <string name="define_license_bunch" tools:ignore="UnusedResources" />
+    <string name="license_bunch_licenseName">bunch</string>
+    <string name="license_bunch_licenseDescription"><![CDATA[
+        The Best License Ever
+    ]]></string>
+</resources>
